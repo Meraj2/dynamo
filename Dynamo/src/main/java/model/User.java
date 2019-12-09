@@ -21,6 +21,7 @@ public class User {
 	public int getId() {
 		return id;
 	}
+	//setter/getter method
 	public void setId(int id) {
 		this.id = id;
 	}
